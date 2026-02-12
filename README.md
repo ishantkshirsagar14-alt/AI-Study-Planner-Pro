@@ -98,7 +98,7 @@ AI-Study-Planner-Pro/
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/ishant kshirsagar/AI-Study-Planner-Pro.git
+git clone https://github.com/ishantkshirsagar14-alt/AI-Study-Planner-Pro
 
 2️⃣ Go to project folder:
 
@@ -136,4 +136,5 @@ python -m streamlit run app.py
 ---
 
 © 2026 Ishant Kshirsagar. All Rights Reserved.
+
 
